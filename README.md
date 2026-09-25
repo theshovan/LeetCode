@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0283-move-zeroes) |
+| [1929-concatenation-of-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0009-palindrome-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
