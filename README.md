@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
