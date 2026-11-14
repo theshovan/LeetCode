@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -56,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0088-merge-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/theshovan/https-github.com-theshovan-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
